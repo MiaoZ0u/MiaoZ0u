@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MiaoZ0u
-- 👀 I’m interested in exploring.
+- 👀 I’m interested in exploring computer science.
 - 🌱 I’m currently learning computer science.
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me: Email: notverynoice@gmail.com
